@@ -9,7 +9,7 @@ Glasgow, UK | snehasantosh103@gmail.com | [LinkedIn](www.linkedin.com/in/sneha-s
 
 ## Summary
 
-Enthusiastic computer science professional pursuing MSc in Advanced Computer Science 🎓 from the University of Strathclyde. Skilled in data analytics tools, including Python, SQL, and machine learning algorithms. Passionate about translating complex data into actionable insights. Strong communication and analytical skills. Seeking data scientist role to apply computational abilities and continuous learning mindset to drive data-driven decision making. Equipped with hands-on experience, having completed multiple internships and projects applying predictive modelling and statistical analysis.
+Enthusiastic computer science professional with MSc in Advanced Computer Science 🎓 from the University of Strathclyde. Skilled in data analytics tools, including Python, SQL, and machine learning algorithms. Passionate about translating complex data into actionable insights. Strong communication and analytical skills. Seeking data scientist role to apply computational abilities and continuous learning mindset to drive data-driven decision making. Equipped with hands-on experience, having completed multiple internships and projects applying predictive modelling and statistical analysis.
 
  
 
@@ -19,7 +19,9 @@ Enthusiastic computer science professional pursuing MSc in Advanced Computer Sci
 
 MSc in Advanced Computer Science   
 
-*Present (Expected January 2024)*
+*January 2024*
+
+Grade: Distinction
 
  
 
